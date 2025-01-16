@@ -1,0 +1,8 @@
+Bu projede başka bilgisayarda başka dizine alınıp çalıştırılmak isteniyorsa en baştaki matlab dosyalarındaki dizinlerin de güncellenmesi gerekmektedir.
+
+
+input_folder = 'C:\Users\Berk\Desktop\Business\KOU 24-25 Guz\Image Processing\Project\datasets\MRI_Noisy';
+output_folder = 'C:\Users\Berk\Desktop\Business\KOU 24-25 Guz\Image Processing\Project\datasets\Standart_Mean_Filtered';
+
+
+şuanda dosya dizin kısımı bu şekildedir.
